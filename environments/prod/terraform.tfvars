@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="logging-demo-345910"
